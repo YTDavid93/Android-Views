@@ -14,9 +14,8 @@ public class MainActivity extends AppCompatActivity {
     private TextView titleText;
     private Button listViewBtn, listViewWithPictureBtn, gridViewBtn;
     String listItems[] = {
-            "Sabindra",
-            "Nath",
-            "Shrestha",
+            "David",
+            "Bista",
             "BCA",
             "Thames",
             "College",
